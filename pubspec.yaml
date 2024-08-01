@@ -15,9 +15,9 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
-  intl: ^0.18.0
+  intl: 
 
-  image_picker: ^1.0.4
+  image_picker: 
 
   file_picker: ^5.5.0
 
